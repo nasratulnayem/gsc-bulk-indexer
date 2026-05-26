@@ -3,9 +3,6 @@
   "name": "GSC Bulk Indexer",
   "version": "1.0.0",
   "description": "Automated bulk URL indexing tool for Google Search Console. Submit multiple URLs, skip already-indexed, detect quota limits.",
-  "developer": {
-    "name": "Nasratul nayem"
-  },
   "permissions": ["storage", "tabs", "scripting"],
   "host_permissions": ["https://search.google.com/*"],
   "action": {
