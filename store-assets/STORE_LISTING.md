@@ -31,11 +31,4 @@ FEATURES
 - Real-time progress bar, per-URL status, and full activity log
 - Dark retro synthwave UI with monospace fonts
 
-Developer: Nasratul nayem
-```
-
-## Screenshots
-
-- [1-idle.png](screenshots/01-idle.png) — The popup in its initial state with the URL paste area and controls
-- [2-running.png](screenshots/02-running.png) — Active batch processing with progress bar and log
-- [3-done.png](screenshots/03-done.png) — Completed run showing results summary
+Developer: Nasratul nayem — https://github.com/nasratulnayem

@@ -4,6 +4,8 @@
 
 Batch-submit hundreds of URLs for indexing through the Google Search Console URL Inspection tool. Paste a plain list or a raw sitemap.xml — the extension inspects each URL, skips anything already indexed, clicks Request Indexing, and dismisses the confirmation dialog. No waiting around.
 
+**Developer**: [Nasratul nayem](https://github.com/nasratulnayem)
+
 ---
 
 ## Features
